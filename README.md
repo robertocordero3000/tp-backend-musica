@@ -4,13 +4,13 @@ API RESTful para gestionar el catálogo de una plataforma de clases de música (
 
 ---
 
-## 👤 USUARIO ADMIN DE PRUEBA
+##  USUARIO ADMIN DE PRUEBA
 - **email:** `admin@musica.com`
 - **password:** `admin123`
 
 ---
 
-## 🛠️ TECNOLOGÍAS
+##  TECNOLOGÍAS
 - Node.js
 - Express
 - MongoDB (Mongoose)
@@ -21,7 +21,7 @@ API RESTful para gestionar el catálogo de una plataforma de clases de música (
 
 ---
 
-## 🗄️ ESQUEMA DE LA BASE DE DATOS (COLLECTIONS)
+##  ESQUEMA DE LA BASE DE DATOS (COLLECTIONS)
 
 ### 1. `users` (Usuarios / Registros de Alumnos)
 ```json
@@ -56,12 +56,12 @@ JSON
   "createdAt": "Date",
   "updatedAt": "Date"
 }
-⚙️ .env (Variables de entorno)
+  .env (Variables de entorno)
 Fragmento de código
 PORT = 5000
 MONGO_URI = mongodb+srv://...
 JWT_SECRET = clave_secreta_jwt
-🚀 INSTALACIÓN Y EJECUCIÓN
+   INSTALACIÓN Y EJECUCIÓN
 Instalar dependencias:
 
 Bash
