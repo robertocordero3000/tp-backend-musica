@@ -13,10 +13,11 @@ API RESTful para gestionar el catálogo de una plataforma de clases de música (
 ##  TECNOLOGÍAS
 - Node.js
 - Express
-- MongoDB (Mongoose)
+- MongoDB (Mongoose) y atlas
 - dotenv
 - cors
 - bcrypt
+- Vercel
 - jsonwebtoken (JWT)
 
 ---
